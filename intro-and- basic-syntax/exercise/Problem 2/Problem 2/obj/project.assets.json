@@ -664,8 +664,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Acer\\.nuget\\packages\\": {},
-    "C:\\Program Files\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\Marinov\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -674,26 +674,26 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\Problem 2\\Problem 2\\Problem 2.csproj",
+      "projectUniqueName": "C:\\Softuni\\SoftwareTechnology\\HomeWork-07.03.2018\\TeamWork\\soft-tech-teamwork\\intro-and- basic-syntax\\exercise\\Problem 2\\Problem 2\\Problem 2.csproj",
       "projectName": "Problem 2",
-      "projectPath": "C:\\Users\\Acer\\source\\repos\\Problem 2\\Problem 2\\Problem 2.csproj",
-      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\source\\repos\\Problem 2\\Problem 2\\obj\\",
+      "projectPath": "C:\\Softuni\\SoftwareTechnology\\HomeWork-07.03.2018\\TeamWork\\soft-tech-teamwork\\intro-and- basic-syntax\\exercise\\Problem 2\\Problem 2\\Problem 2.csproj",
+      "packagesPath": "C:\\Users\\Marinov\\.nuget\\packages\\",
+      "outputPath": "C:\\Softuni\\SoftwareTechnology\\HomeWork-07.03.2018\\TeamWork\\soft-tech-teamwork\\intro-and- basic-syntax\\exercise\\Problem 2\\Problem 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\Marinov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
