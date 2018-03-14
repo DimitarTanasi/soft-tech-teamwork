@@ -71,7 +71,7 @@ Ice Cold Nuka-Cola
 350ml Nuka-Cola Quantum:  
 2100kcal, 490g sugars
 
-1. Problem 6. *Character Stats 
+### Problem 5. *Character Stats
 
 Write a program, which **displays
 information** about a video game character. You will receive their
@@ -205,6 +205,6 @@ Energy: |..........|
 
 #### Hints
 
-- You can print a character **multiple**
-	times, using **new string(character,
-	count)**.
+- []()You can
+	print a character **multiple** times, using **new
+	string(character, count)**.
