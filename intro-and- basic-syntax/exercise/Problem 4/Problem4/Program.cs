@@ -6,16 +6,16 @@ namespace Problem4
     {
         static void Main(string[] args)
         {
-            var name = Console.ReadLine();
-            var volume = int.Parse(Console.ReadLine());
-            var energy = int.Parse(Console.ReadLine());
-            var sugarcontent = int.Parse(Console.ReadLine());
+            var BeverageName = Console.ReadLine();
+            var BeverageVolume = int.Parse(Console.ReadLine());
+            var energyContent = int.Parse(Console.ReadLine());
+            var sugarContent = int.Parse(Console.ReadLine());
 
-            var calories = volume * energy / 100.0;
-            var sugar = volume * sugarcontent / 100.0;
+            var totalCalories = BeverageVolume * energyContent / 100.0;
+            var totalSugar = BeverageVolume * sugarContent / 100.0;
 
-            Console.WriteLine($"{volume}ml {name}:");
-            Console.WriteLine($"{calories}kcal, {sugar}g sugars");
+            Console.WriteLine($"{BeverageVolume}ml {BeverageName}:");
+            Console.WriteLine($"{totalCalories}kcal, {totalSugar}g sugars");
         }
     }
 }
