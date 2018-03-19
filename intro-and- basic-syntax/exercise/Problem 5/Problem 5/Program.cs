@@ -11,20 +11,20 @@ namespace Character_stars
         static void Main(string[] args)
         {
             string name = Console.ReadLine();
-            int currentHealth = int.Parse(Console.ReadLine());
-            int maximumHealth = int.Parse(Console.ReadLine());
-            int currentEnergy = int.Parse(Console.ReadLine());
-            int maximumEnergy = int.Parse(Console.ReadLine());
+            int health = int.Parse(Console.ReadLine());
+            int healthMax = int.Parse(Console.ReadLine());
+            int energy = int.Parse(Console.ReadLine());
+            int energyMax = int.Parse(Console.ReadLine());
 
             Console.WriteLine($"Name: {name}");
 
-            int countOfHealthDots = maximumHealth - currentHealth;
+            int healthDotsCount = healthMax - health;
 
-            Console.WriteLine("Health: |{0}{1}|", new string('|', currentHealth), new string('.', countOfHealthDots));
+            Console.WriteLine("Health: |{0}{1}|", new string('|', health), new string('.', healthDotsCount));
 
 
-            int countOfPipes = currentEnergy;
-            int countOfdots = maximumEnergy - currentEnergy;
+            int countOfPipes = energy;
+            int countOfdots = energyMax - energy;
 
             Console.WriteLine("Energy: |{0}{1}|", new string('|', countOfPipes), new string('.', countOfdots));
         }
