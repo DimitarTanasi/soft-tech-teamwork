@@ -10,6 +10,8 @@ namespace Character_stars
     {
         static void Main(string[] args)
         {
+            //Problem 5. Confirmed by itvili - Velichka Aleksandrova
+
             string name = Console.ReadLine();
             int health = int.Parse(Console.ReadLine());
             int healthMax = int.Parse(Console.ReadLine());
