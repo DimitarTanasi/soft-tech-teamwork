@@ -10,7 +10,7 @@ namespace Character_stars
     {
         static void Main(string[] args)
         {
-            //Problem 5. Confirmed by itvili - Velichka Aleksandrova
+            //CONFIRMED from itvili
 
             string name = Console.ReadLine();
             int health = int.Parse(Console.ReadLine());
