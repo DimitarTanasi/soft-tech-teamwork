@@ -317,3 +317,6 @@ Energy: |..........|
 - []()You can
 	print a character **multiple** times, using **new
 	string(character, count)**.
+
+#INSERT NEW HEADING
+
